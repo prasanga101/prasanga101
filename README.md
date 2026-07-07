@@ -6,6 +6,16 @@
   <img src="card.svg" width="700" alt="prasanga101 scout card" />
 </div>
 
+## Featured projects
+
+<p align="center">
+  <a href="https://github.com/prasanga101?tab=repositories&q=sneakpeek">SneakPeek</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/prasanga101?tab=repositories&q=neural-abstraction-reasoning-engine">Neural Abstraction Reasoning Engine</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/prasanga101?tab=repositories&q=know-what-you-dont-know">Know What You Don't Know</a>
+</p>
+
 
 ## Find me elsewhere
 

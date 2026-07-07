@@ -5,11 +5,7 @@
 </div>
 
 <div align="center">
-
-![prasanga101's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanga101&show_icons=true&theme=dark)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanga101&layout=compact&theme=dark)
-
+  <img src="card.svg" width="700" alt="prasanga101 scout card" />
 </div>
 
 ## Starting XI &middot; pinned repos

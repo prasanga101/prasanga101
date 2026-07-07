@@ -1,0 +1,12 @@
+<svg width="160" height="48" viewBox="0 0 160 48" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="158" height="46" rx="10" fill="#20190f" stroke="#4a3d28" stroke-width="1">
+    <animate attributeName="stroke" values="#4a3d28;#0a66c2;#4a3d28" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(16,12)">
+    <rect x="0" y="0" width="24" height="24" rx="5" fill="#0a66c2"/>
+    <rect x="5" y="9" width="4" height="11" fill="#ffffff"/>
+    <circle cx="7" cy="5" r="2.2" fill="#ffffff"/>
+    <path d="M13,20 L13,9 L17,9 L17,10.5 C18,9.2 19.5,8.6 21,9.2 C22.6,9.8 23.5,11.3 23.5,13.5 L23.5,20 L19.5,20 L19.5,14 C19.5,12.7 18.9,12 17.9,12 C16.9,12 16.2,12.7 16.2,14 L16.2,20 Z" fill="#ffffff"/>
+  </g>
+  <text x="52" y="29" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8dfc8">LinkedIn</text>
+</svg>

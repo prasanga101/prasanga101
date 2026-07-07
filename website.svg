@@ -1,0 +1,13 @@
+<svg width="160" height="48" viewBox="0 0 160 48" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="158" height="46" rx="10" fill="#20190f" stroke="#4a3d28" stroke-width="1">
+    <animate attributeName="stroke" values="#4a3d28;#7fb87a;#4a3d28" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(16,12)">
+    <rect x="0" y="0" width="24" height="24" rx="12" fill="#7fb87a"/>
+    <ellipse cx="12" cy="12" rx="4.5" ry="9" fill="none" stroke="#183014" stroke-width="1.4"/>
+    <line x1="3" y1="12" x2="21" y2="12" stroke="#183014" stroke-width="1.4"/>
+    <path d="M6,6 C9,9 15,9 18,6" fill="none" stroke="#183014" stroke-width="1.2"/>
+    <path d="M6,18 C9,15 15,15 18,18" fill="none" stroke="#183014" stroke-width="1.2"/>
+  </g>
+  <text x="52" y="29" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8dfc8">Website</text>
+</svg>

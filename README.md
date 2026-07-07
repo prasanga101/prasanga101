@@ -1,7 +1,5 @@
 <div align="center">
 
-# prasanga101
-
 </div>
 
 <div align="center">

@@ -1,0 +1,58 @@
+<svg width="700" height="480" viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="700" height="480" rx="16" fill="#181410"/>
+
+  <rect x="24" y="24" width="88" height="88" rx="8" fill="#2a2f36" stroke="#4a5560" stroke-width="0.5"/>
+  <text x="68" y="66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#dfe8f0">70</text>
+  <text x="68" y="84" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="9" letter-spacing="1" fill="#8ea3b5">SILVER</text>
+
+  <text x="128" y="42" font-family="Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1" fill="#7fb87a">SCOUT REPORT</text>
+  <text x="128" y="68" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="1" fill="#f5efe0">PRASANGA101</text>
+
+  <rect x="128" y="78" width="34" height="18" rx="4" fill="#7fb87a"/>
+  <text x="145" y="91" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#183014">CAM</text>
+  <text x="172" y="91" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c9bd9e">@prasanga101 &#183; 22 repos</text>
+
+  <text x="128" y="112" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a88f5e"><tspan font-weight="600" fill="#f0d9a8">LIVE STATS </tspan>generated from the GitHub API.</text>
+
+  <rect x="24" y="136" width="180" height="210" rx="8" fill="#20190f" stroke="#4a3d28" stroke-width="0.5"/>
+  <text x="40" y="158" font-family="Helvetica, Arial, sans-serif" font-size="10" letter-spacing="1" fill="#a88f5e">ATTRIBUTES</text>
+  <text x="40" y="182" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#e8dfc8">Following</text>
+  <text x="188" y="182" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#f0d9a8">3</text>
+  <text x="40" y="206" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#e8dfc8">Public repos</text>
+  <text x="188" y="206" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#f0d9a8">22</text>
+  <line x1="40" y1="222" x2="188" y2="222" stroke="#4a3d28" stroke-width="0.5"/>
+  <text x="40" y="246" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#e8dfc8">Top language</text>
+  <text x="188" y="246" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#f0d9a8">Python</text>
+  <text x="40" y="270" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#e8dfc8">Issues opened</text>
+  <text x="188" y="270" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#f0d9a8">20</text>
+
+  <rect x="24" y="362" width="180" height="90" rx="8" fill="#20190f" stroke="#4a3d28" stroke-width="0.5"/>
+  <text x="40" y="384" font-family="Helvetica, Arial, sans-serif" font-size="10" letter-spacing="1" fill="#a88f5e">PLAYSTYLE</text>
+  <text x="40" y="406" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#f0d9a8">Polyglot</text>
+
+  <g transform="translate(224,136)">
+    <path d="M0,18 L110,0 L220,18 L220,290 L110,316 L0,290 Z" fill="#d7dee4"/>
+    <text x="110" y="46" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#22303a">70</text>
+    <text x="110" y="66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#22303a">CAM</text>
+
+    <clipPath id="photoClip"><rect x="60" y="78" width="100" height="100" rx="6"/></clipPath>
+    <rect x="60" y="78" width="100" height="100" rx="6" fill="#aebac2"/>
+    <image href="avatar.jpg" x="60" y="78" width="100" height="100" clip-path="url(#photoClip)" preserveAspectRatio="xMidYMid slice"/>
+
+    <text x="110" y="202" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1" fill="#22303a">PRASANGA101</text>
+
+    <line x1="14" y1="214" x2="206" y2="214" stroke="#5c6a74" stroke-width="0.5"/>
+    <text x="14" y="234" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#22303a"><tspan font-weight="600">49</tspan> PAC</text>
+    <text x="118" y="234" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#22303a"><tspan font-weight="600">80</tspan> DRI</text>
+    <text x="14" y="254" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#22303a"><tspan font-weight="600">88</tspan> SHO</text>
+    <text x="118" y="254" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#22303a"><tspan font-weight="600">90</tspan> DEF</text>
+    <text x="14" y="274" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#22303a"><tspan font-weight="600">55</tspan> PAS</text>
+    <text x="118" y="274" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#22303a"><tspan font-weight="600">55</tspan> PHY</text>
+  </g>
+
+  <rect x="476" y="136" width="200" height="314" rx="8" fill="#20190f" stroke="#4a3d28" stroke-width="0.5"/>
+  <text x="492" y="158" font-family="Helvetica, Arial, sans-serif" font-size="10" letter-spacing="1" fill="#a88f5e">SCOUTING METRICS (LIVE)</text>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#e8dfc8">
+    <text x="492" y="180">Commits</text><text x="660" y="180" text-anchor="end">35</text><rect x="492" y="186" width="168" height="3" rx="1.5" fill="#4a3d28"/><rect x="492" y="186" width="59" height="3" rx="1.5" fill="#f0d9a8"/><text x="492" y="215">Stars earned</text><text x="660" y="215" text-anchor="end">8</text><rect x="492" y="221" width="168" height="3" rx="1.5" fill="#4a3d28"/><rect x="492" y="221" width="67" height="3" rx="1.5" fill="#f0d9a8"/><text x="492" y="250">Top repo stars</text><text x="660" y="250" text-anchor="end">2</text><rect x="492" y="256" width="168" height="3" rx="1.5" fill="#4a3d28"/><rect x="492" y="256" width="34" height="3" rx="1.5" fill="#f0d9a8"/><text x="492" y="285">Pull requests</text><text x="660" y="285" text-anchor="end">25</text><rect x="492" y="291" width="168" height="3" rx="1.5" fill="#4a3d28"/><rect x="492" y="291" width="70" height="3" rx="1.5" fill="#f0d9a8"/><text x="492" y="320">Followers</text><text x="660" y="320" text-anchor="end">5</text><rect x="492" y="326" width="168" height="3" rx="1.5" fill="#4a3d28"/><rect x="492" y="326" width="42" height="3" rx="1.5" fill="#f0d9a8"/><text x="492" y="355">Languages</text><text x="660" y="355" text-anchor="end">5</text><rect x="492" y="361" width="168" height="3" rx="1.5" fill="#4a3d28"/><rect x="492" y="361" width="84" height="3" rx="1.5" fill="#f0d9a8"/><text x="492" y="390">Issues</text><text x="660" y="390" text-anchor="end">20</text><rect x="492" y="396" width="168" height="3" rx="1.5" fill="#4a3d28"/><rect x="492" y="396" width="84" height="3" rx="1.5" fill="#f0d9a8"/><text x="492" y="425">Contributions</text><text x="660" y="425" text-anchor="end">91</text><rect x="492" y="431" width="168" height="3" rx="1.5" fill="#4a3d28"/><rect x="492" y="431" width="51" height="3" rx="1.5" fill="#f0d9a8"/>
+  </g>
+</svg>

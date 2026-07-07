@@ -8,13 +8,30 @@
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/prasanga101?tab=repositories&q=sneakpeek">SneakPeek</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/prasanga101?tab=repositories&q=neural-abstraction-reasoning-engine">Neural Abstraction Reasoning Engine</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/prasanga101?tab=repositories&q=know-what-you-dont-know">Know What You Don't Know</a>
-</p>
+## Featured projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/prasanga101?tab=repositories&q=sneakpeek" title="A preview-first project for surfacing useful signals, context, and next actions.">
+          <strong>SneakPeek</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/prasanga101?tab=repositories&q=neural-abstraction-reasoning-engine" title="An experimental reasoning system for abstraction, pattern discovery, and compositional problem solving.">
+          <strong>Neural Abstraction Reasoning Engine</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/prasanga101?tab=repositories&q=know-what-you-dont-know" title="A metacognition-focused AI project around uncertainty awareness, calibration, and knowing when to abstain.">
+          <strong>Know What You Don't Know</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ## Find me elsewhere

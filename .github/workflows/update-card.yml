@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: prasanga101
-        run: python generate_card.py
+        run: python social/generate_card.py
 
       - name: Commit updated cards
         run: |

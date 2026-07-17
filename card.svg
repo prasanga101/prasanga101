@@ -17,7 +17,7 @@
   <rect x="24" y="136" width="180" height="210" rx="8" fill="#20190f" stroke="#4a3d28" stroke-width="0.5"/>
   <text x="40" y="158" font-family="Helvetica, Arial, sans-serif" font-size="10" letter-spacing="1" fill="#a88f5e">ATTRIBUTES</text>
   <text x="40" y="182" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#e8dfc8">Following</text>
-  <text x="188" y="182" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#f0d9a8">4</text>
+  <text x="188" y="182" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#f0d9a8">5</text>
   <text x="40" y="206" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#e8dfc8">Public repos</text>
   <text x="188" y="206" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#f0d9a8">22</text>
   <line x1="40" y1="222" x2="188" y2="222" stroke="#4a3d28" stroke-width="0.5"/>
